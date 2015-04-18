@@ -1,0 +1,226 @@
+
+	
+	#home{
+		background:url('../img/flight.jpg') no-repeat center center fixed;
+		background-attachment: fixed;
+		background-size: cover;
+	}
+	
+	h1{
+	padding:180px 0 0 0px;
+	text-align:center;
+	font-family: 'Lobster', sans-serif;	
+	font-size:3em;
+	color: rgb(35, 35, 35);
+	}
+	
+	p{
+	font-family: 'Open Sans Condensed', sans-serif;
+	}
+	.navbar-default {
+	background:transparent;  
+	border-color: transparent;
+	
+	}
+	.navbar-default .navbar-nav>.active>a{
+	background-color: transparent;
+	color:#777;
+	}
+	.navbar-default .navbar-nav>.active>a:hover {
+	color: #555;
+	background-color: transparent;
+	}
+	.collapse.navbar-collapse li a{
+	color:rgb(235, 77, 48);
+	background-color:transparent;
+	font-family:'Open Sans Condensed', sans-serif;
+	font-size:1.2em;
+	}
+	.collapse.navbar-collapse li a:hover{
+	color:#777;
+	background-color:transparent;
+	}
+	
+	.navbar-brand{
+	color:#000000;
+	font-size:1.6em;
+	font-family:'Open Sans Condensed', sans-serif;
+	}
+
+	.nav>li>a:hover {	
+		color:rgb(235, 77, 48);		
+	}
+	
+	.intro p:first-of-type{
+	font-size:1.4em;
+	color:#232323;	
+	}
+	
+	input[name="email"]{
+	background: rgba(224, 249, 241, 0.8);
+	border:1px solid black;
+	color:black;
+	height:40px;
+	}
+	
+	input[name="email"]:focus{
+	border: 1px solid rgba(81, 203, 238, 1);
+	}
+	
+	.form-control::-webkit-input-placeholder {
+	color:#232323;
+	font-size:1.3em;
+	font-family:'Open Sans Condensed';
+}
+
+	[placeholder]:focus::-webkit-input-placeholder {
+	color:transparent;
+	}
+
+	.enter{
+	font-family:'Open Sans Condensed';
+	font-size:1.2em;
+	border-radius:0px;
+	border:none;
+	}
+	.im-centered { margin: auto; float:none; width:420px;}
+	.im-centered1 { margin: auto; float:none; width:330px;}
+	
+	.page1{
+	background-color: #ffffff;
+	background-image: url('../img/feathers.png');
+	height:350px;
+	}
+	
+	.carousel {
+	height: 300px;
+	margin-bottom: 60px;
+	}
+
+	.carousel .item {
+		height: 230px;
+	}
+	
+	.carousel-control.left, .carousel-control.right{
+		background-image:none;
+	}
+	
+	.glyphicon-chevron-left, .glyphicon-chevron-right{
+		color:#343434;
+	}
+	
+	.page1 h2{
+	color:rgb(235, 77, 48);
+	font-family:'Open Sans Condensed';
+	font-size:40px;
+	}
+	
+	.page1 p{
+	color:#343434;
+	font-family:'Open Sans Condensed';
+	font-size:20px;
+	padding-top:20px;
+	}
+
+	.page2{
+	background:#dcf7f3;
+	background-color: #dcf7f3;
+	background-image: url(http://www.transparenttextures.com/patterns/lined-paper-2.png);
+	color:#232323;
+	padding-top:80px;
+	padding-bottom:80px;
+	}
+	
+	h2{
+	font-family:'Lobster';
+	font-size:40px;
+	text-align:center;	
+	}
+	
+	.page2 h2{
+	color:#232323;
+	}
+	
+	.page2 p{
+	margin:40px 0 40px 0;
+	font-size:1.2em;
+	line-height: 1.5;
+	text-align:justify;	
+	}
+	
+	.page2 p + p {   
+	text-indent: 1.5em 
+	}
+	
+	.border{
+	border-bottom: 1px solid rgb(235, 77, 48);
+	width: 160px;
+	position: absolute;
+	margin-top: 15px;
+	margin-left: 240px;
+	}
+	.page2 p:first-of-type:first-letter { 
+	font-size: 1.5em;
+	line-height: 0;  
+	font-weight:bold;
+	}
+	
+	.page3{
+	background-color: #ffffff;
+	background-image: url('../img/feathers.png');
+	color:#232323;
+	padding-bottom:80px;
+	}
+	
+	.page3 h2{
+	padding-top:80px;
+	color:#232323;
+	}
+	
+	iframe{
+	margin-top:50px;
+	}
+	.page4{
+	background-color: #232323;
+	background-image: url(http://www.transparenttextures.com/patterns/always-grey.png);
+	color:rgb(235, 77, 48);
+	padding-top:80px;
+	padding-bottom:80px;
+	}
+	.page4 h2{
+	color:#FFFFFF;
+	}
+	
+	.page4 p{
+	font-size:1.4em;
+	text-align:center;
+	}
+	
+	.page4 p:first-of-type{
+	padding-top:50px;
+	}
+
+	.page4 img{
+	padding-right:20px;
+	}
+
+	.itunes{
+	background:white;
+	height:75px;
+	width:120px;
+	border:1px solid black;
+	border-radius:6px;
+	}
+
+	#note{
+	color:white;
+	font-size:1.2em;
+	padding-bottom:20px;
+	}
+	
+	.highlight{
+	color:#5fcf80;
+	}
+	
+	
+	
